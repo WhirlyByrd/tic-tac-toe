@@ -15,6 +15,8 @@ img {
   height: 80%;
 }
 
+
+
 .square {
   color: white;
   display: flex;
@@ -34,4 +36,13 @@ img {
   padding: 0.5em;
   gap: 1em;
   grid-template-rows: 70px 70px 70px;
+  
+}
+
+button {
+  background-color: #61dafb;
+  color: white;
+  border-style: none;
+  padding: 1em 1em 1em 1em;
+  
 }
